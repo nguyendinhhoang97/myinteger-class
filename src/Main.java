@@ -11,6 +11,6 @@ public class Main {
         System.out.println("Số " + myInteger.getValue() + " bằng số: " + value + " :" + myInteger.equals(value));
         System.out.println("Số " + myInteger.getValue() + " bằng số: "
                 + myInteger1.getValue() + " :" + myInteger.equals(myInteger1));
-        System.out.println("Đổi chuỗi " + s + " thành số nguyên: " + myInteger.);
+        System.out.println("Đổi chuỗi " + s + " thành số nguyên: " + myInteger);
     }
 }
