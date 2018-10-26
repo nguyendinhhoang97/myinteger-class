@@ -17,8 +17,8 @@ public class MyInteger {
 
     public boolean isOdd() {
         if (this.value % 2 != 0)
-            return false;
-        return true;
+            return true;
+        return false;
     }
 
     public boolean isPrime() {
